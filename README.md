@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Syahrul Safarudin Hasan, I am a student from UIN Sunan Gunung Djati Bandung Indonesia, and my major is Informatics Engineering and I still need a lot of experience to become a good software engineer, but I always ready to learn anything I have to do to become a software engineer.
+Hi, my name is Syahrul Safarudin Hasan, I am a software engineer who focuses on backend engineering, and I will not refuse any challenge to become a good software engineer, especially in the field that I focus on
+
 
 <!--
 **syahrul-ssh/syahrul-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
